@@ -1,3 +1,4 @@
 API_KEY = "8ea52f3c-c8e5-49e8-b442-9f0bc1c47da6"
 PASSWORD = "password"
 SECRET_KEY = "cde2273e-05f9-44a6-aeb2-559030706c6e"
+AWS_API_KEY = "AKIAqwertyuiop123456"
